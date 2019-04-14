@@ -23,4 +23,6 @@ map2：复赛地图
 5.权重挥发。即除了道路本身所具有的的权重，后来增加的权重都具有挥发性，让其以一定速率进行挥发
 
 
-具体分析请看我的博客：
+具体分析请看我的博客：https://www.cnblogs.com/qiang-wei/p/10705503.html
+
+https://www.cnblogs.com/qiang-wei/p/10705479.html
